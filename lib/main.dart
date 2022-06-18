@@ -33,7 +33,8 @@ class HelloKurdistanApp extends StatelessWidget {
             )
           ],
         ),
-      )),
+      ),
+      ),
     );
   }
 }
